@@ -1,13 +1,3 @@
-#######################################################################################
-#本策略开发者(This strategy developer)：叮叮(PT炒幣機器人亞洲經銷商)                          #
-#联络方式（contact method）：                                                            #
-#Telegram:https://t.me/DingDingTing                                                   #
-#Youtube:https://www.youtube.com/user/g001613001                                      #
-#购买方式(Method of purchase)：https://goo.gl/9n8Fwk                                    #
-#购买教学影片(Buy teaching videos)：https://goo.gl/36FdTC                                #
-#其他免费策略取得网址（Other free strategies for getting URLs)：https://goo.gl/VUwPL6      #
-#######################################################################################
-
 #Period in seconds
 BB_period = 300
 BB_sma = 20
